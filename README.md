@@ -19,11 +19,12 @@
 
 | 🗓️ Timetable | ✅ Tasks | 👤 Profile |
 |--------------|----------|------------|
-| ![Timetable](screenshots/timetable.png) | ![Tasks](screenshots/tasks.png) | ![Profile](screenshots/profile.png) |
+| ![Timetable](C:\Users\a1b1t\StudyBuddyStudent\Study Buddy Student/time table of studdy buddy) | ![Tasks](screenshots/tasks.png) | ![Profile](screenshots/profile.png) |
 
 | 📊 GPA Calculator | 📈 GPA Summary |
 |-------------------|----------------|
 | ![GPA Calculator](screenshots/gpa_calculator.png) | ![GPA Summary](screenshots/gpa_summary.png) |
+
 
 ---
 
