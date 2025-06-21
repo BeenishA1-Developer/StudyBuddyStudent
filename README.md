@@ -1,17 +1,17 @@
 # 🎓 StudyBuddyStudent – Your Smart Academic Companion
 
-StudyBuddyStudent is a clean, modern, and fully responsive **Jetpack Compose Android App** designed for students to organize their academic routine with style and simplicity. From managing your tasks to checking your GPA and class schedule — it’s all here in one app! 🚀
+**StudyBuddyStudent** is a beautiful Jetpack Compose Android app designed to help students manage their academic life effortlessly. Whether it’s organizing your class schedule, keeping track of study tasks, or checking your GPA — this app does it all in style! 💼📚
 
 ---
 
 ## ✨ Features
 
-✅ View and manage your **Weekly Timetable**  
-✅ Add and delete **Study Tasks** easily  
-✅ Update your **Profile Info** (Name & Email)  
-✅ Cleanly designed **GPA Calculator**  
-✅ Interactive UI with gradient cards and animations  
-✅ Uses **MVVM + Material 3** for structure and beauty
+✅ View your **Weekly Timetable**  
+✅ Manage your **Study Tasks** with ease  
+✅ Edit your **Profile** info (Name & Email)  
+✅ Built-in **GPA Calculator**  
+✅ Gorgeous UI with **Material 3**, gradients & cards  
+✅ Uses **MVVM architecture** with ViewModel + State
 
 ---
 
@@ -27,19 +27,19 @@ StudyBuddyStudent is a clean, modern, and fully responsive **Jetpack Compose And
 
 ---
 
-## 🧠 Built With
+## 🧠 Tech Stack
 
-- **Jetpack Compose**
-- **Kotlin**
-- **Material 3 UI**
-- **MVVM Architecture**
-- **ViewModel + StateFlow**
-- *(Optional Room / DataStore if added)*
+- 🧩 **Jetpack Compose**
+- 🧪 **Kotlin**
+- 🎨 **Material 3**
+- 🧠 **MVVM Architecture**
+- 🔄 **ViewModel + StateFlow**
+- 🛠️ *(Optionally expandable with Room, DataStore, Firebase)*
 
 ---
 
 ## ⚙️ How to Run
 
-1. Clone this repo:
+1. **Clone the repo**:
 ```bash
-git clone https://github.com/YourUsername/StudyBuddyStudent.git
+git clone https://github.com/yourusername/StudyBuddyStudent.git
