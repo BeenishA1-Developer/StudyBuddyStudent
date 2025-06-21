@@ -1,47 +1,60 @@
-# 🎓 StudyBuddyStudent – Your Smart Academic Companion
+# 📚 Study Buddy Student App
 
-**StudyBuddyStudent** is a beautiful Jetpack Compose Android app designed to help students manage their academic life effortlessly. Whether it’s organizing your class schedule, keeping track of study tasks, or checking your GPA — this app does it all in style! 💼📚
+Welcome to **StudyBuddyStudent** – a modern Android app built with Jetpack Compose to help students manage their study life efficiently and beautifully!
 
 ---
 
 ## ✨ Features
 
-✅ View your **Weekly Timetable**  
-✅ Manage your **Study Tasks** with ease  
-✅ Edit your **Profile** info (Name & Email)  
-✅ Built-in **GPA Calculator**  
-✅ Gorgeous UI with **Material 3**, gradients & cards  
-✅ Uses **MVVM architecture** with ViewModel + State
+- 📝 Task Management
+- 📅 Timetable Scheduling
+- 📊 GPA Calculator
+- 👤 Profile Save & Logout
+- 💡 Clean, responsive UI using Material 3
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
 | 🗓️ Timetable | ✅ Tasks | 👤 Profile |
 |--------------|----------|------------|
-| <img src="screenshots/timetable.png" width="250"/> | <img src="screenshots/tasks.png" width="250"/> | <img src="screenshots/profile.png" width="250"/> |
+| <img src="https://github.com/BeenishA1-Developer/StudyBuddyStudent/blob/main/timetable.png?raw=true" width="250"/> | <img src="https://github.com/BeenishA1-Developer/StudyBuddyStudent/blob/main/tasks.png?raw=true" width="250"/> | <img src="https://github.com/BeenishA1-Developer/StudyBuddyStudent/blob/main/profile.png?raw=true" width="250"/> |
 
 | 📊 GPA Calculator | 📈 GPA Summary |
 |-------------------|----------------|
-| <img src="screenshots/gpa_calculator.png" width="250"/> | <img src="screenshots/gpa_summary.png" width="250"/> |
-
-
+| <img src="https://github.com/BeenishA1-Developer/StudyBuddyStudent/blob/main/gpa_calculator.png?raw=true" width="250"/> | <img src="https://github.com/BeenishA1-Developer/StudyBuddyStudent/blob/main/gpa_summary.png?raw=true" width="250"/> |
 
 ---
 
-## 🧠 Tech Stack
+## 🔧 Built With
 
-- 🧩 **Jetpack Compose**
-- 🧪 **Kotlin**
-- 🎨 **Material 3**
-- 🧠 **MVVM Architecture**
-- 🔄 **ViewModel + StateFlow**
-- 🛠️ *(Optionally expandable with Room, DataStore, Firebase)*
+- Kotlin + Jetpack Compose
+- Android Studio
+- MVVM Architecture
+- Material 3 Design
+- Firebase (if connected)
 
 ---
 
-## ⚙️ How to Run
+## 🚀 How to Run
 
-1. **Clone the repo**:
-```bash
-git clone https://github.com/yourusername/StudyBuddyStudent.git
+1. Clone the repo:  
+   `git clone https://github.com/BeenishA1-Developer/StudyBuddyStudent.git`
+
+2. Open in Android Studio
+
+3. Run on emulator or physical device
+
+---
+
+## 📩 Contact
+
+Made with ❤️ by **Beenish A1**  
+For project help or collaboration, reach out via GitHub or LinkedIn!
+
+---
+
+## 🌟 Give a Star!
+
+If you like this project, consider ⭐ starring the repo — it motivates me to build more!
+
